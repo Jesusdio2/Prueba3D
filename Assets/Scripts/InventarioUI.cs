@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class InventarioUI : MonoBehaviour
+public class InventarioUI : MonoBehaviour // Not Used For Now.
 {
     public GameObject prefabSlot; // Prefab con Image + Text
     public Transform contenedorSlots; // Donde se instancian los slots
