@@ -4,8 +4,6 @@
 
 The source code may take a while to update.
 
-The developer did not provide any further information.
-
 ---
 
 ## 🕹️ Play the game on Itch.io
