@@ -23,3 +23,8 @@ You can find the latest playable version of Prueba3D on Itch.io:
 - This version includes the patch for **CVE-2025-59489** and early Firebase compatibility.
 
 > Note: This is an early alpha build. Features and performance may change significantly in future versions.
+<a href="https://github.com/Jesusdio2/Prueba3D/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Jesusdio2/Prueba3D" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
